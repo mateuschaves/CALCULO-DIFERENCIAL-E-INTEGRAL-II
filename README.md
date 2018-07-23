@@ -3,7 +3,7 @@ Resolução dos exercícios da disciplina Cálculo diferencial e integral II do 
 
 ## Professora da disciplina
 
-* **Mirele Moutinho** - [Site](https://sites.google.com/site/mirelemoutinho/home/upe)
+* **Alex Ramos Borges** - [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4447061P6)
 
 ## Contribuidores
 * **Mateus Henrique** - [Github](https://github.com/mateuschaves)
